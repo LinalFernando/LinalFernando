@@ -1,6 +1,6 @@
 <!-- Centered Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+LinalFernando;Software+Engineer+💻;Full+Stack+Developer+🚀;Always+Learning+📚;Let's+Build+Something+Awesome+✨" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Linal+Fernando;Software+Engineer+💻;Full+Stack+Developer+🚀;Always+Learning+📚;Let's+Build+Something+Awesome+✨" alt="Typing SVG" />
 </p>
 
 ---
